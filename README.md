@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/blockchain/api-v1-client-python)
+
 # Blockchain API library (Python, v1)
 
 An official Python module for interacting with the Blockchain.info API. Compatible with both Python 2 and Python 3.
